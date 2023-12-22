@@ -6,8 +6,6 @@
 
 - 💬 Ask me about **Python, Java, C#, Unity**
 
-- ⚡ Fun fact **I can hear really well**
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
