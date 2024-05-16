@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [a 2D Top-Down shooter survival game](https://github.com/Ricardo-Sousa-hub/Joguito.git)
 
-- 🌱 I’m currently learning **OutSystems**
+- 🌱 I’m currently learning **Angular**
 
 - 💬 Ask me about **Python, Java, C#, Unity**
 
