@@ -1,10 +1,8 @@
 <h1 align="start">Hi 👋, I'm Ricardo Sousa</h1>
 
-- 🔭 I’m currently working on [a 2D Top-Down shooter survival game](https://github.com/Ricardo-Sousa-hub/Joguito.git)
-
 - 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **Python, Java, C#, Unity**
+- 💬 Ask me about **Java, NestJS**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
