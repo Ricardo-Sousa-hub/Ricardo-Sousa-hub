@@ -1,9 +1,5 @@
 <h1 align="start">Hi 👋, I'm Ricardo Sousa</h1>
 
-- 🌱 I’m currently learning **Angular**
-
-- 💬 Ask me about **Java, NestJS**
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
